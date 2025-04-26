@@ -5,5 +5,3 @@ Engineering with most recent experience focused on Java REST API development and
 Development/Deployment. Utilizes technologies and methodologies such as Microservice Architecture, Maven, Spring, Spring Boot,
 REST, Kafka, Hibernate/JPA and relational databases. Possesses experience with CI/CD software such as Jenkins and Ansible, Docker
 containers, and deployments to GCP.
-
-https://www.linkedin.com/in/kevinjamescleveland/
